@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a neuroscience and computer science student at
 You can reach out to me via email at: [ekkiddle@gmail.com].
 
 ## 📈 My GitHub Stats
-![Emily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+![Emily's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekkiddle&show_icons=true&hide_title=true)
 
 ## 🛠️ Tools & Technologies
 - **Languages**: Python, C++, Haskell, JavaScript
